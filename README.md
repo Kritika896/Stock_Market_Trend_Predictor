@@ -8,6 +8,7 @@
 This application provides an interactive dashboard to analyze historical stock data and predict future price movements using machine learning models. It's designed as a demonstration tool for **educational purposes**, showcasing how **time series prediction** can be applied to financial markets.
 
 ![image alt](https://github.com/Kritika896/Stock_Market_Trend_Predictor/blob/main/1745671452162.jpeg?raw=true)
+![image alt](https://github.com/Kritika896/Stock_Market_Trend_Predictor/blob/main/1745671452263.jpeg?raw=true)
 ---
 
 ## 🚀 Features
